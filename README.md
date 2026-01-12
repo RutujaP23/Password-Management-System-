@@ -112,11 +112,6 @@ This project is suitable for:
 Computer Engineering Student
 Python | Android | SQL | Machine Learning
 
----
-
-## 📄 License
-
-This project is for **educational purposes only**.
 
 ---
 
